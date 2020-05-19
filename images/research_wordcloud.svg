@@ -1,0 +1,1131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="768">
+<defs>
+<style type="text/css"> @import url(https://fonts.googleapis.com/css2?family=Original%20Surfer:wght@400&amp;display=swap); </style>
+</defs>
+<g>
+<g transform="translate(510,384) rotate(-78.32681220398442,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="69px" font-style="normal" font-weight="normal" x="-147.1640625" y="-27.6" text-anchor="start" dominant-baseline="alphabetic">lncRNAs</text>
+</g>
+<g transform="translate(506,256) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="64px" font-style="normal" font-weight="normal" x="-145.046875" y="-25.6" text-anchor="start" dominant-baseline="alphabetic">chromatin</text>
+</g>
+<g transform="translate(570,390) rotate(0,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="59px" font-style="normal" font-weight="normal" x="-82.291748046875" y="-23.6" text-anchor="start" dominant-baseline="alphabetic">genes</text>
+</g>
+<g transform="translate(512,202) rotate(0,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="54px" font-style="normal" font-weight="normal" x="-156.990234375" y="-21.620491200000004" text-anchor="start" dominant-baseline="alphabetic">transcription</text>
+</g>
+<g transform="translate(578,430) rotate(0,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="49px" font-style="normal" font-weight="normal" x="-92.7841796875" y="-19.654992" text-anchor="start" dominant-baseline="alphabetic">analysis</text>
+</g>
+<g transform="translate(554,352) rotate(0,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="44px" font-style="normal" font-weight="normal" x="-52.529296875" y="-17.6894928" text-anchor="start" dominant-baseline="alphabetic">show</text>
+</g>
+<g transform="translate(508,624) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="44px" font-style="normal" font-weight="normal" x="-110.9560546875" y="-17.6894928" text-anchor="start" dominant-baseline="alphabetic">expression</text>
+</g>
+<g transform="translate(538,464) rotate(0,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="44px" font-style="normal" font-weight="normal" x="-63.9052734375" y="-17.6894928" text-anchor="start" dominant-baseline="alphabetic">RNAs</text>
+</g>
+<g transform="translate(438,384) rotate(-84.93113948318874,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="39px" font-style="normal" font-weight="normal" x="-61.442138671875" y="-15.7239936" text-anchor="start" dominant-baseline="alphabetic">cancer</text>
+</g>
+<g transform="translate(512,488) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="39px" font-style="normal" font-weight="normal" x="-44.103515625" y="-15.7239936" text-anchor="start" dominant-baseline="alphabetic">gene</text>
+</g>
+<g transform="translate(340,332) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="39px" font-style="normal" font-weight="normal" x="-103.5556640625" y="-15.7239936" text-anchor="start" dominant-baseline="alphabetic">sequencing</text>
+</g>
+<g transform="translate(410,386) rotate(-82.71488864582517,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="39px" font-style="normal" font-weight="normal" x="-61.8896484375" y="-15.7239936" text-anchor="start" dominant-baseline="alphabetic">CCMs</text>
+</g>
+<g transform="translate(586,312) rotate(0,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="34px" font-style="normal" font-weight="normal" x="-82.99951171875" y="-13.758494400000002" text-anchor="start" dominant-baseline="alphabetic">noncoding</text>
+</g>
+<g transform="translate(542,524) rotate(0,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="34px" font-style="normal" font-weight="normal" x="-78.08544921875" y="-13.758494400000002" text-anchor="start" dominant-baseline="alphabetic">functional</text>
+</g>
+<g transform="translate(566,284) rotate(0,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="34px" font-style="normal" font-weight="normal" x="-53.91357421875" y="-13.758494400000002" text-anchor="start" dominant-baseline="alphabetic">MEG3</text>
+</g>
+<g transform="translate(650,348) rotate(0,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="34px" font-style="normal" font-weight="normal" x="-42.79052734375" y="-13.758494400000002" text-anchor="start" dominant-baseline="alphabetic">using</text>
+</g>
+<g transform="translate(432,280) rotate(0,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="34px" font-style="normal" font-weight="normal" x="-40.408203125" y="-13.758494400000002" text-anchor="start" dominant-baseline="alphabetic">RNA</text>
+</g>
+<g transform="translate(740,384) rotate(0,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="34px" font-style="normal" font-weight="normal" x="-85.3154296875" y="-13.758494400000002" text-anchor="start" dominant-baseline="alphabetic">associated</text>
+</g>
+<g transform="translate(326,378) rotate(-25.82067180489901,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="34px" font-style="normal" font-weight="normal" x="-68.7802734375" y="-13.758494400000002" text-anchor="start" dominant-baseline="alphabetic">S-phase</text>
+</g>
+<g transform="translate(514,150) rotate(0,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="29px" font-style="normal" font-weight="normal" x="-71.487548828125" y="-11.7929952" text-anchor="start" dominant-baseline="alphabetic">transcripts</text>
+</g>
+<g transform="translate(356,418) rotate(-68.58800120745602,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="29px" font-style="normal" font-weight="normal" x="-59.026611328125" y="-11.7929952" text-anchor="start" dominant-baseline="alphabetic">elements</text>
+</g>
+<g transform="translate(602,482) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="29px" font-style="normal" font-weight="normal" x="-47.0966796875" y="-11.7929952" text-anchor="start" dominant-baseline="alphabetic">WDR5</text>
+</g>
+<g transform="translate(510,654) rotate(0,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="29px" font-style="normal" font-weight="normal" x="-83.396240234375" y="-11.7929952" text-anchor="start" dominant-baseline="alphabetic">differentially</text>
+</g>
+<g transform="translate(426,306) rotate(0,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="29px" font-style="normal" font-weight="normal" x="-22.918212890625" y="-11.7929952" text-anchor="start" dominant-baseline="alphabetic">cell</text>
+</g>
+<g transform="translate(316,306) rotate(0,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="29px" font-style="normal" font-weight="normal" x="-73.243408203125" y="-11.7929952" text-anchor="start" dominant-baseline="alphabetic">enrichment</text>
+</g>
+<g transform="translate(728,406) rotate(0,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="29px" font-style="normal" font-weight="normal" x="-57.716796875" y="-11.7929952" text-anchor="start" dominant-baseline="alphabetic">enriched</text>
+</g>
+<g transform="translate(632,446) rotate(0,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="29px" font-style="normal" font-weight="normal" x="-28.9150390625" y="-11.7929952" text-anchor="start" dominant-baseline="alphabetic">long</text>
+</g>
+<g transform="translate(380,478) rotate(0,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="29px" font-style="normal" font-weight="normal" x="-49.850830078125" y="-11.7929952" text-anchor="start" dominant-baseline="alphabetic">regions</text>
+</g>
+<g transform="translate(320,406) rotate(-25.05999590590764,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="29px" font-style="normal" font-weight="normal" x="-25.30419921875" y="-11.7929952" text-anchor="start" dominant-baseline="alphabetic">tool</text>
+</g>
+<g transform="translate(354,502) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="29px" font-style="normal" font-weight="normal" x="-67.7138671875" y="-11.7929952" text-anchor="start" dominant-baseline="alphabetic">promoters</text>
+</g>
+<g transform="translate(330,282) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="29px" font-style="normal" font-weight="normal" x="-63.4091796875" y="-11.7929952" text-anchor="start" dominant-baseline="alphabetic">identified</text>
+</g>
+<g transform="translate(304,198) rotate(55.44021727540543,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="29px" font-style="normal" font-weight="normal" x="-69.306884765625" y="-11.7929952" text-anchor="start" dominant-baseline="alphabetic">expressed</text>
+</g>
+<g transform="translate(720,426) rotate(0,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="25px" font-style="normal" font-weight="normal" x="-45.916748046875" y="-10" text-anchor="start" dominant-baseline="alphabetic">relevant</text>
+</g>
+<g transform="translate(510,674) rotate(0,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="25px" font-style="normal" font-weight="normal" x="-48.486328125" y="-10" text-anchor="start" dominant-baseline="alphabetic">NBAT-1</text>
+</g>
+<g transform="translate(656,282) rotate(0,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="25px" font-style="normal" font-weight="normal" x="-34.6923828125" y="-10" text-anchor="start" dominant-baseline="alphabetic">active</text>
+</g>
+<g transform="translate(272,362) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="25px" font-style="normal" font-weight="normal" x="-33.740234375" y="-10" text-anchor="start" dominant-baseline="alphabetic">target</text>
+</g>
+<g transform="translate(290,430) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="25px" font-style="normal" font-weight="normal" x="-32.403564453125" y="-10" text-anchor="start" dominant-baseline="alphabetic">study</text>
+</g>
+<g transform="translate(674,150) rotate(0,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="25px" font-style="normal" font-weight="normal" x="-84.808349609375" y="-10" text-anchor="start" dominant-baseline="alphabetic">neuroblastoma</text>
+</g>
+<g transform="translate(648,502) rotate(0,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="25px" font-style="normal" font-weight="normal" x="-25.189208984375" y="-10" text-anchor="start" dominant-baseline="alphabetic">data</text>
+</g>
+<g transform="translate(696,606) rotate(0,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="25px" font-style="normal" font-weight="normal" x="-73.3642578125" y="-10" text-anchor="start" dominant-baseline="alphabetic">development</text>
+</g>
+<g transform="translate(638,654) rotate(-31.903307626203713,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="25px" font-style="normal" font-weight="normal" x="-60.58349609375" y="-10" text-anchor="start" dominant-baseline="alphabetic">H3K4me2</text>
+</g>
+<g transform="translate(366,522) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="25px" font-style="normal" font-weight="normal" x="-32.989501953125" y="-10" text-anchor="start" dominant-baseline="alphabetic">tumor</text>
+</g>
+<g transform="translate(814,350) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="25px" font-style="normal" font-weight="normal" x="-40.216064453125" y="-10" text-anchor="start" dominant-baseline="alphabetic">protein</text>
+</g>
+<g transform="translate(294,254) rotate(0,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="25px" font-style="normal" font-weight="normal" x="-44.354248046875" y="-10" text-anchor="start" dominant-baseline="alphabetic">disease</text>
+</g>
+<g transform="translate(580,498) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="25px" font-style="normal" font-weight="normal" x="-21.746826171875" y="-10" text-anchor="start" dominant-baseline="alphabetic">role</text>
+</g>
+<g transform="translate(510,534) rotate(0,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="20px" font-style="normal" font-weight="normal" x="-45.0634765625" y="-8" text-anchor="start" dominant-baseline="alphabetic">activation</text>
+</g>
+<g transform="translate(676,460) rotate(-32.76297074505241,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="20px" font-style="normal" font-weight="normal" x="-20.8056640625" y="-8" text-anchor="start" dominant-baseline="alphabetic">CLL</text>
+</g>
+<g transform="translate(576,318) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="20px" font-style="normal" font-weight="normal" x="-38.73046875" y="-8" text-anchor="start" dominant-baseline="alphabetic">common</text>
+</g>
+<g transform="translate(656,234) rotate(60.22221399963014,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="20px" font-style="normal" font-weight="normal" x="-30.8544921875" y="-8" text-anchor="start" dominant-baseline="alphabetic">critical</text>
+</g>
+<g transform="translate(276,450) rotate(0,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="20px" font-style="normal" font-weight="normal" x="-31.54296875" y="-8" text-anchor="start" dominant-baseline="alphabetic">coding</text>
+</g>
+<g transform="translate(388,146) rotate(0,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="20px" font-style="normal" font-weight="normal" x="-50.224609375" y="-8" text-anchor="start" dominant-baseline="alphabetic">methylated</text>
+</g>
+<g transform="translate(508,686) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="20px" font-style="normal" font-weight="normal" x="-38.65234375" y="-8" text-anchor="start" dominant-baseline="alphabetic">involved</text>
+</g>
+<g transform="translate(538,390) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="20px" font-style="normal" font-weight="normal" x="-16.8115234375" y="-8" text-anchor="start" dominant-baseline="alphabetic">can</text>
+</g>
+<g transform="translate(390,634) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="20px" font-style="normal" font-weight="normal" x="-44.345703125" y="-8" text-anchor="start" dominant-baseline="alphabetic">biological</text>
+</g>
+<g transform="translate(346,626) rotate(-81.26666301775353,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="20px" font-style="normal" font-weight="normal" x="-48.3642578125" y="-8" text-anchor="start" dominant-baseline="alphabetic">H3K4me3</text>
+</g>
+<g transform="translate(722,202) rotate(0,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="20px" font-style="normal" font-weight="normal" x="-73.4423828125" y="-8" text-anchor="start" dominant-baseline="alphabetic">hypomethylated</text>
+</g>
+<g transform="translate(512,498) rotate(0,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="20px" font-style="normal" font-weight="normal" x="-22.412109375" y="-8" text-anchor="start" dominant-baseline="alphabetic">units</text>
+</g>
+<g transform="translate(504,634) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="20px" font-style="normal" font-weight="normal" x="-26.3623046875" y="-8" text-anchor="start" dominant-baseline="alphabetic">levels</text>
+</g>
+<g transform="translate(634,526) rotate(-23.44599565753259,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="20px" font-style="normal" font-weight="normal" x="-22.5830078125" y="-8" text-anchor="start" dominant-baseline="alphabetic">need</text>
+</g>
+<g transform="translate(416,666) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="20px" font-style="normal" font-weight="normal" x="-43.33984375" y="-8" text-anchor="start" dominant-baseline="alphabetic">important</text>
+</g>
+<g transform="translate(744,178) rotate(0,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="20px" font-style="normal" font-weight="normal" x="-75.3466796875" y="-8" text-anchor="start" dominant-baseline="alphabetic">high-throughput</text>
+</g>
+<g transform="translate(278,230) rotate(6.432557488487403,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="20px" font-style="normal" font-weight="normal" x="-45.83984375" y="-8" text-anchor="start" dominant-baseline="alphabetic">compared</text>
+</g>
+<g transform="translate(416,686) rotate(0,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="20px" font-style="normal" font-weight="normal" x="-51.85546875" y="-8" text-anchor="start" dominant-baseline="alphabetic">information</text>
+</g>
+<g transform="translate(658,682) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="20px" font-style="normal" font-weight="normal" x="-52.94921875" y="-8" text-anchor="start" dominant-baseline="alphabetic">methylation</text>
+</g>
+<g transform="translate(274,474) rotate(0,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="20px" font-style="normal" font-weight="normal" x="-37.5634765625" y="-8" text-anchor="start" dominant-baseline="alphabetic">controls</text>
+</g>
+<g transform="translate(822,326) rotate(0,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="20px" font-style="normal" font-weight="normal" x="-33.798828125" y="-8" text-anchor="start" dominant-baseline="alphabetic">binding</text>
+</g>
+<g transform="translate(288,606) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="20px" font-style="normal" font-weight="normal" x="-42.40234375" y="-8" text-anchor="start" dominant-baseline="alphabetic">lncCARs</text>
+</g>
+<g transform="translate(692,304) rotate(-87.0568399300246,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="20px" font-style="normal" font-weight="normal" x="-13.53515625" y="-8" text-anchor="start" dominant-baseline="alphabetic">via</text>
+</g>
+<g transform="translate(524,206) rotate(0,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="20px" font-style="normal" font-weight="normal" x="-18.876953125" y="-8" text-anchor="start" dominant-baseline="alphabetic">loss</text>
+</g>
+<g transform="translate(410,532) rotate(0,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-30.73974609375" y="-6" text-anchor="start" dominant-baseline="alphabetic">real-time</text>
+</g>
+<g transform="translate(388,648) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-35.606689453125" y="-6" text-anchor="start" dominant-baseline="alphabetic">databases</text>
+</g>
+<g transform="translate(568,248) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-27.26806640625" y="-6" text-anchor="start" dominant-baseline="alphabetic">genome</text>
+</g>
+<g transform="translate(604,628) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-28.02978515625" y="-6" text-anchor="start" dominant-baseline="alphabetic">regulate</text>
+</g>
+<g transform="translate(604,388) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-20.980224609375" y="-6" text-anchor="start" dominant-baseline="alphabetic">based</text>
+</g>
+<g transform="translate(306,520) rotate(0,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-25.9130859375" y="-6" text-anchor="start" dominant-baseline="alphabetic">identify</text>
+</g>
+<g transform="translate(820,304) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-28.421630859375" y="-6" text-anchor="start" dominant-baseline="alphabetic">patterns</text>
+</g>
+<g transform="translate(466,200) rotate(0,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-22.174072265625" y="-6" text-anchor="start" dominant-baseline="alphabetic">poorly</text>
+</g>
+<g transform="translate(470,300) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-10.484619140625" y="-6" text-anchor="start" dominant-baseline="alphabetic">set</text>
+</g>
+<g transform="translate(626,250) rotate(26.23177001722163,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-17.069091796875" y="-6" text-anchor="start" dominant-baseline="alphabetic">early</text>
+</g>
+<g transform="translate(276,208) rotate(0,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-36.156005859375" y="-6" text-anchor="start" dominant-baseline="alphabetic">replication</text>
+</g>
+<g transform="translate(822,288) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-30.289306640625" y="-6" text-anchor="start" dominant-baseline="alphabetic">available</text>
+</g>
+<g transform="translate(828,272) rotate(0,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-35.44189453125" y="-6" text-anchor="start" dominant-baseline="alphabetic">GeneSCF</text>
+</g>
+<g transform="translate(692,660) rotate(0,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-51.427001953125" y="-6" text-anchor="start" dominant-baseline="alphabetic">6p22lncRNAs</text>
+</g>
+<g transform="translate(272,192) rotate(0,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-28.330078125" y="-6" text-anchor="start" dominant-baseline="alphabetic">updated</text>
+</g>
+<g transform="translate(578,532) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-18.687744140625" y="-6" text-anchor="start" dominant-baseline="alphabetic">Gene</text>
+</g>
+<g transform="translate(324,340) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-20.657958984375" y="-6" text-anchor="start" dominant-baseline="alphabetic">timing</text>
+</g>
+<g transform="translate(818,256) rotate(0,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-29.468994140625" y="-6" text-anchor="start" dominant-baseline="alphabetic">revealed</text>
+</g>
+<g transform="translate(270,340) rotate(0,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-21.741943359375" y="-6" text-anchor="start" dominant-baseline="alphabetic">PCGs</text>
+</g>
+<g transform="translate(704,634) rotate(-10.056285644856498,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-32.860107421875" y="-6" text-anchor="start" dominant-baseline="alphabetic">pathways</text>
+</g>
+<g transform="translate(798,216) rotate(0,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-37.06787109375" y="-6" text-anchor="start" dominant-baseline="alphabetic">differential</text>
+</g>
+<g transform="translate(804,392) rotate(0,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-16.25244140625" y="-6" text-anchor="start" dominant-baseline="alphabetic">sites</text>
+</g>
+<g transform="translate(266,634) rotate(37.89834500912988,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-52.94677734375" y="-6" text-anchor="start" dominant-baseline="alphabetic">sperm-specific</text>
+</g>
+<g transform="translate(354,204) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-17.047119140625" y="-6" text-anchor="start" dominant-baseline="alphabetic">tools</text>
+</g>
+<g transform="translate(822,240) rotate(0,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-37.18505859375" y="-6" text-anchor="start" dominant-baseline="alphabetic">prognostic</text>
+</g>
+<g transform="translate(768,616) rotate(0,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-32.105712890625" y="-6" text-anchor="start" dominant-baseline="alphabetic">repetitive</text>
+</g>
+<g transform="translate(326,158) rotate(72.6562796622329,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-28.033447265625" y="-6" text-anchor="start" dominant-baseline="alphabetic">lncRNA</text>
+</g>
+<g transform="translate(770,638) rotate(-17.30187340580983,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-31.014404296875" y="-6" text-anchor="start" dominant-baseline="alphabetic">high-risk</text>
+</g>
+<g transform="translate(206,596) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-37.03857421875" y="-6" text-anchor="start" dominant-baseline="alphabetic">MBD-Seq</text>
+</g>
+<g transform="translate(676,436) rotate(0,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-11.304931640625" y="-6" text-anchor="start" dominant-baseline="alphabetic">top</text>
+</g>
+<g transform="translate(374,596) rotate(0,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-21.287841796875" y="-6" text-anchor="start" dominant-baseline="alphabetic">triplex</text>
+</g>
+<g transform="translate(276,684) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-39.80712890625" y="-6" text-anchor="start" dominant-baseline="alphabetic">RNA–DNA</text>
+</g>
+<g transform="translate(244,400) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-11.06689453125" y="-6" text-anchor="start" dominant-baseline="alphabetic">17q</text>
+</g>
+<g transform="translate(802,596) rotate(0,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-29.783935546875" y="-6" text-anchor="start" dominant-baseline="alphabetic">potential</text>
+</g>
+<g transform="translate(488,156) rotate(0,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-35.928955078125" y="-6" text-anchor="start" dominant-baseline="alphabetic">processes</text>
+</g>
+<g transform="translate(254,664) rotate(8.784656181277866,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-37.239990234375" y="-6" text-anchor="start" dominant-baseline="alphabetic">maintained</text>
+</g>
+<g transform="translate(296,620) rotate(0,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-24.9755859375" y="-6" text-anchor="start" dominant-baseline="alphabetic">Among</text>
+</g>
+<g transform="translate(260,176) rotate(0,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-24.239501953125" y="-6" text-anchor="start" dominant-baseline="alphabetic">affects</text>
+</g>
+<g transform="translate(228,260) rotate(86.40904358570691,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-22.833251953125" y="-6" text-anchor="start" dominant-baseline="alphabetic">events</text>
+</g>
+<g transform="translate(222,622) rotate(-68.85696072183515,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-23.19580078125" y="-6" text-anchor="start" dominant-baseline="alphabetic">normal</text>
+</g>
+<g transform="translate(812,228) rotate(0,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-27.333984375" y="-6" text-anchor="start" dominant-baseline="alphabetic">nascent</text>
+</g>
+<g transform="translate(266,488) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-17.4755859375" y="-6" text-anchor="start" dominant-baseline="alphabetic">Thus</text>
+</g>
+<g transform="translate(414,284) rotate(0,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-21.0791015625" y="-6" text-anchor="start" dominant-baseline="alphabetic">sperm</text>
+</g>
+<g transform="translate(752,672) rotate(0,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-40.264892578125" y="-6" text-anchor="start" dominant-baseline="alphabetic">quantitative</text>
+</g>
+<g transform="translate(244,648) rotate(0,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="15px" font-style="normal" font-weight="normal" x="-24.100341796875" y="-6" text-anchor="start" dominant-baseline="alphabetic">TGF-b</text>
+</g>
+<g transform="translate(512,312) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-9.5361328125" y="-4" text-anchor="start" dominant-baseline="alphabetic">may</text>
+</g>
+<g transform="translate(618,448) rotate(0,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-15.0146484375" y="-4" text-anchor="start" dominant-baseline="alphabetic">SOX9</text>
+</g>
+<g transform="translate(676,220) rotate(83.58136124529383,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-18.34716796875" y="-4" text-anchor="start" dominant-baseline="alphabetic">patients</text>
+</g>
+<g transform="translate(294,128) rotate(0,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-34.87548828125" y="-4" text-anchor="start" dominant-baseline="alphabetic">comprehensive</text>
+</g>
+<g transform="translate(422,152) rotate(0,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-26.91650390625" y="-4" text-anchor="start" dominant-baseline="alphabetic">non-coding</text>
+</g>
+<g transform="translate(372,608) rotate(-4.413291178931483,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-23.34716796875" y="-4" text-anchor="start" dominant-baseline="alphabetic">frequently</text>
+</g>
+<g transform="translate(776,152) rotate(0,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-24.697265625" y="-4" text-anchor="start" dominant-baseline="alphabetic">correlation</text>
+</g>
+<g transform="translate(442,344) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-11.9384765625" y="-4" text-anchor="start" dominant-baseline="alphabetic">often</text>
+</g>
+<g transform="translate(656,384) rotate(0,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-9.11376953125" y="-4" text-anchor="start" dominant-baseline="alphabetic">new</text>
+</g>
+<g transform="translate(356,528) rotate(0,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-16.67236328125" y="-4" text-anchor="start" dominant-baseline="alphabetic">inverse</text>
+</g>
+<g transform="translate(786,648) rotate(0,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-23.3349609375" y="-4" text-anchor="start" dominant-baseline="alphabetic">correlated</text>
+</g>
+<g transform="translate(234,436) rotate(80.79406919711839,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-20.46142578125" y="-4" text-anchor="start" dominant-baseline="alphabetic">However</text>
+</g>
+<g transform="translate(642,612) rotate(0,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-18.84765625" y="-4" text-anchor="start" dominant-baseline="alphabetic">samples</text>
+</g>
+<g transform="translate(746,680) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-23.75" y="-4" text-anchor="start" dominant-baseline="alphabetic">organisms</text>
+</g>
+<g transform="translate(628,316) rotate(0,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-9.78271484375" y="-4" text-anchor="start" dominant-baseline="alphabetic">high</text>
+</g>
+<g transform="translate(184,604) rotate(0,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-24.46533203125" y="-4" text-anchor="start" dominant-baseline="alphabetic">significant</text>
+</g>
+<g transform="translate(174,616) rotate(0,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-31.18408203125" y="-4" text-anchor="start" dominant-baseline="alphabetic">characterized</text>
+</g>
+<g transform="translate(706,616) rotate(0,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-19.44580078125" y="-4" text-anchor="start" dominant-baseline="alphabetic">genomic</text>
+</g>
+<g transform="translate(176,628) rotate(0,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-24.79248046875" y="-4" text-anchor="start" dominant-baseline="alphabetic">installation</text>
+</g>
+<g transform="translate(212,668) rotate(0,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-24.68505859375" y="-4" text-anchor="start" dominant-baseline="alphabetic">subgroups</text>
+</g>
+<g transform="translate(350,452) rotate(0,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-14.1015625" y="-4" text-anchor="start" dominant-baseline="alphabetic">status</text>
+</g>
+<g transform="translate(428,196) rotate(0,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-13.43505859375" y="-4" text-anchor="start" dominant-baseline="alphabetic">IGHV</text>
+</g>
+<g transform="translate(568,196) rotate(0,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-9.580078125" y="-4" text-anchor="start" dominant-baseline="alphabetic">also</text>
+</g>
+<g transform="translate(256,156) rotate(0,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-21.75048828125" y="-4" text-anchor="start" dominant-baseline="alphabetic">hallmarks</text>
+</g>
+<g transform="translate(822,196) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-22.27294921875" y="-4" text-anchor="start" dominant-baseline="alphabetic">CpG-rich</text>
+</g>
+<g transform="translate(254,144) rotate(0,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-19.2138671875" y="-4" text-anchor="start" dominant-baseline="alphabetic">complex</text>
+</g>
+<g transform="translate(816,184) rotate(0,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-17.734375" y="-4" text-anchor="start" dominant-baseline="alphabetic">multiple</text>
+</g>
+<g transform="translate(358,422) rotate(-71.99637023914477,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-19.53125" y="-4" text-anchor="start" dominant-baseline="alphabetic">different</text>
+</g>
+<g transform="translate(668,476) rotate(0,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-9.599609375" y="-4" text-anchor="start" dominant-baseline="alphabetic">sets</text>
+</g>
+<g transform="translate(480,360) rotate(0,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-8.1005859375" y="-4" text-anchor="start" dominant-baseline="alphabetic">two</text>
+</g>
+<g transform="translate(820,604) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-20.888671875" y="-4" text-anchor="start" dominant-baseline="alphabetic">cllDMGs</text>
+</g>
+<g transform="translate(354,656) rotate(0,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-15.32470703125" y="-4" text-anchor="start" dominant-baseline="alphabetic">KEGG</text>
+</g>
+<g transform="translate(190,656) rotate(0,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-23.22021484375" y="-4" text-anchor="start" dominant-baseline="alphabetic">Reactome</text>
+</g>
+<g transform="translate(680,288) rotate(0,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-12.41455078125" y="-4" text-anchor="start" dominant-baseline="alphabetic">novel</text>
+</g>
+<g transform="translate(302,632) rotate(0,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-18.0029296875" y="-4" text-anchor="start" dominant-baseline="alphabetic">perform</text>
+</g>
+<g transform="translate(310,156) rotate(46.6433650203037,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-21.5673828125" y="-4" text-anchor="start" dominant-baseline="alphabetic">treatment</text>
+</g>
+<g transform="translate(820,616) rotate(0,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-17.7783203125" y="-4" text-anchor="start" dominant-baseline="alphabetic">Despite</text>
+</g>
+<g transform="translate(148,588) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-17.32666015625" y="-4" text-anchor="start" dominant-baseline="alphabetic">present</text>
+</g>
+<g transform="translate(178,640) rotate(0,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-19.62158203125" y="-4" text-anchor="start" dominant-baseline="alphabetic">vascular</text>
+</g>
+<g transform="translate(546,620) rotate(0,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-11.474609375" y="-4" text-anchor="start" dominant-baseline="alphabetic">brain</text>
+</g>
+<g transform="translate(820,628) rotate(0,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-16.48193359375" y="-4" text-anchor="start" dominant-baseline="alphabetic">current</text>
+</g>
+<g transform="translate(702,642) rotate(-1.8939141656400844,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-16.0986328125" y="-4" text-anchor="start" dominant-baseline="alphabetic">predict</text>
+</g>
+<g transform="translate(476,410) rotate(-12.798890968804224,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-8.5595703125" y="-4" text-anchor="start" dominant-baseline="alphabetic">one</text>
+</g>
+<g transform="translate(428,432) rotate(0,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-8.251953125" y="-4" text-anchor="start" dominant-baseline="alphabetic">late</text>
+</g>
+<g transform="translate(532,282) rotate(-0.621352696090004,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-19.0673828125" y="-4" text-anchor="start" dominant-baseline="alphabetic">whereas</text>
+</g>
+<g transform="translate(522,244) rotate(0,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-10.078125" y="-4" text-anchor="start" dominant-baseline="alphabetic">total</text>
+</g>
+<g transform="translate(372,256) rotate(0,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-9.64111328125" y="-4" text-anchor="start" dominant-baseline="alphabetic">map</text>
+</g>
+<g transform="translate(246,368) rotate(0,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-11.1572265625" y="-4" text-anchor="start" dominant-baseline="alphabetic">CpG</text>
+</g>
+<g transform="translate(632,196) rotate(0,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-16.0009765625" y="-4" text-anchor="start" dominant-baseline="alphabetic">clinical</text>
+</g>
+<g transform="translate(564,152) rotate(0,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-9.79736328125" y="-4" text-anchor="start" dominant-baseline="alphabetic">play</text>
+</g>
+<g transform="translate(660,348) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-8.32275390625" y="-4" text-anchor="start" dominant-baseline="alphabetic">tive</text>
+</g>
+<g transform="translate(266,496) rotate(0,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-15.625" y="-4" text-anchor="start" dominant-baseline="alphabetic">across</text>
+</g>
+<g transform="translate(784,408) rotate(0,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-12.38525390625" y="-4" text-anchor="start" dominant-baseline="alphabetic">cycle</text>
+</g>
+<g transform="translate(864,288) rotate(-67.41897789274921,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-20.0537109375" y="-4" text-anchor="start" dominant-baseline="alphabetic">neuronal</text>
+</g>
+<g transform="translate(244,412) rotate(0,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-12.00439453125" y="-4" text-anchor="start" dominant-baseline="alphabetic">DNA</text>
+</g>
+<g transform="translate(446,230) rotate(76.07078848776175,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-11.43310546875" y="-4" text-anchor="start" dominant-baseline="alphabetic">Loss</text>
+</g>
+<g transform="translate(562,680) rotate(0,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-11.96533203125" y="-4" text-anchor="start" dominant-baseline="alphabetic">Long</text>
+</g>
+<g transform="translate(348,676) rotate(0,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-13.49365234375" y="-4" text-anchor="start" dominant-baseline="alphabetic">found</text>
+</g>
+<g transform="translate(754,626) rotate(-0.2725965781490231,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-16.84326171875" y="-4" text-anchor="start" dominant-baseline="alphabetic">zygotic</text>
+</g>
+<g transform="translate(384,196) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="10px" font-style="normal" font-weight="normal" x="-12.03369140625" y="-4" text-anchor="start" dominant-baseline="alphabetic">class</text>
+</g>
+<g transform="translate(564,280) rotate(0,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-10.60791015625" y="-2" text-anchor="start" dominant-baseline="alphabetic">decrease</text>
+</g>
+<g transform="translate(420,452) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-9.27978515625" y="-2" text-anchor="start" dominant-baseline="alphabetic">etiology</text>
+</g>
+<g transform="translate(506,356) rotate(0,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-4.088134765625" y="-2" text-anchor="start" dominant-baseline="alphabetic">loci</text>
+</g>
+<g transform="translate(446,404) rotate(0,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-7.7734375" y="-2" text-anchor="start" dominant-baseline="alphabetic">expres</text>
+</g>
+<g transform="translate(680,380) rotate(0,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-9.180908203125" y="-2" text-anchor="start" dominant-baseline="alphabetic">markers</text>
+</g>
+<g transform="translate(468,380) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-6.156005859375" y="-2" text-anchor="start" dominant-baseline="alphabetic">leads</text>
+</g>
+<g transform="translate(492,384) rotate(-75.91372165269397,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-4.835205078125" y="-2" text-anchor="start" dominant-baseline="alphabetic">sion</text>
+</g>
+<g transform="translate(432,376) rotate(-73.30431913006285,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-8.255615234375" y="-2" text-anchor="start" dominant-baseline="alphabetic">lacking</text>
+</g>
+<g transform="translate(396,452) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-10.675048828125" y="-2" text-anchor="start" dominant-baseline="alphabetic">encoding</text>
+</g>
+<g transform="translate(412,476) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-14.66064453125" y="-2" text-anchor="start" dominant-baseline="alphabetic">investigation</text>
+</g>
+<g transform="translate(492,328) rotate(0,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-6.57958984375" y="-2" text-anchor="start" dominant-baseline="alphabetic">newly</text>
+</g>
+<g transform="translate(560,432) rotate(0,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-5.096435546875" y="-2" text-anchor="start" dominant-baseline="alphabetic">type</text>
+</g>
+<g transform="translate(840,358) rotate(-39.62180542559398,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-12.928466796875" y="-2" text-anchor="start" dominant-baseline="alphabetic">Systematic</text>
+</g>
+<g transform="translate(456,452) rotate(0,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-5.474853515625" y="-2" text-anchor="start" dominant-baseline="alphabetic">least</text>
+</g>
+<g transform="translate(508,584) rotate(0,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-14.38720703125" y="-2" text-anchor="start" dominant-baseline="alphabetic">Pan-Cancer</text>
+</g>
+<g transform="translate(600,280) rotate(0,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-9.77294921875" y="-2" text-anchor="start" dominant-baseline="alphabetic">unravels</text>
+</g>
+<g transform="translate(564,378) rotate(-78.3518384759868,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-5.869140625" y="-2" text-anchor="start" dominant-baseline="alphabetic">facet</text>
+</g>
+<g transform="translate(424,240) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-21.90185546875" y="-2" text-anchor="start" dominant-baseline="alphabetic">H3K4me2/WDR5</text>
+</g>
+<g transform="translate(546,484) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-7.706298828125" y="-2" text-anchor="start" dominant-baseline="alphabetic">TCGA</text>
+</g>
+<g transform="translate(486,450) rotate(51.22650544549178,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-4.681396484375" y="-2" text-anchor="start" dominant-baseline="alphabetic">find</text>
+</g>
+<g transform="translate(680,352) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-9.3603515625" y="-2" text-anchor="start" dominant-baseline="alphabetic">synergy</text>
+</g>
+<g transform="translate(622,420) rotate(0,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-7.75634765625" y="-2" text-anchor="start" dominant-baseline="alphabetic">results</text>
+</g>
+<g transform="translate(472,584) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-18.2666015625" y="-2" text-anchor="start" dominant-baseline="alphabetic">undifferentiated</text>
+</g>
+<g transform="translate(616,480) rotate(0,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-9.0185546875" y="-2" text-anchor="start" dominant-baseline="alphabetic">USP36</text>
+</g>
+<g transform="translate(378,400) rotate(0,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-8.76220703125" y="-2" text-anchor="start" dominant-baseline="alphabetic">another</text>
+</g>
+<g transform="translate(636,376) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-6.31103515625" y="-2" text-anchor="start" dominant-baseline="alphabetic">tional</text>
+</g>
+<g transform="translate(536,584) rotate(0,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-10.799560546875" y="-2" text-anchor="start" dominant-baseline="alphabetic">Silencing</text>
+</g>
+<g transform="translate(456,492) rotate(0,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-6.878662109375" y="-2" text-anchor="start" dominant-baseline="alphabetic">nexus</text>
+</g>
+<g transform="translate(654,240) rotate(59.006648002227756,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-12.972412109375" y="-2" text-anchor="start" dominant-baseline="alphabetic">localization</text>
+</g>
+<g transform="translate(702,428) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-12.66357421875" y="-2" text-anchor="start" dominant-baseline="alphabetic">modulating</text>
+</g>
+<g transform="translate(758,350) rotate(16.841679682730252,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-10.66650390625" y="-2" text-anchor="start" dominant-baseline="alphabetic">gene-reg</text>
+</g>
+<g transform="translate(654,420) rotate(0,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-7.275390625" y="-2" text-anchor="start" dominant-baseline="alphabetic">region</text>
+</g>
+<g transform="translate(494,194) rotate(27.656957532780172,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-8.033447265625" y="-2" text-anchor="start" dominant-baseline="alphabetic">ulatory</text>
+</g>
+<g transform="translate(700,380) rotate(10.391013249199666,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-7.762451171875" y="-2" text-anchor="start" dominant-baseline="alphabetic">gained</text>
+</g>
+<g transform="translate(258,268) rotate(71.67481149627453,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-12.176513671875" y="-2" text-anchor="start" dominant-baseline="alphabetic">controlling</text>
+</g>
+<g transform="translate(454,528) rotate(0,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-8.966064453125" y="-2" text-anchor="start" dominant-baseline="alphabetic">stability</text>
+</g>
+<g transform="translate(446,310) rotate(63.66262822905747,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-7.3095703125" y="-2" text-anchor="start" dominant-baseline="alphabetic">CHD7</text>
+</g>
+<g transform="translate(376,432) rotate(0,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-5.638427734375" y="-2" text-anchor="start" dominant-baseline="alphabetic">state</text>
+</g>
+<g transform="translate(324,404) rotate(0,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-5.18310546875" y="-2" text-anchor="start" dominant-baseline="alphabetic">func</text>
+</g>
+<g transform="translate(526,450) rotate(-43.00968322146484,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-4.83642578125" y="-2" text-anchor="start" dominant-baseline="alphabetic">lead</text>
+</g>
+<g transform="translate(662,316) rotate(0,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-8.57177734375" y="-2" text-anchor="start" dominant-baseline="alphabetic">NBAT1</text>
+</g>
+<g transform="translate(356,280) rotate(0,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-21.676025390625" y="-2" text-anchor="start" dominant-baseline="alphabetic">cancer-associated</text>
+</g>
+<g transform="translate(756,380) rotate(0,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-9.08935546875" y="-2" text-anchor="start" dominant-baseline="alphabetic">network</text>
+</g>
+<g transform="translate(344,476) rotate(0,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-10.489501953125" y="-2" text-anchor="start" dominant-baseline="alphabetic">CASC15</text>
+</g>
+<g transform="translate(446,396) rotate(0,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-3.909912109375" y="-2" text-anchor="start" dominant-baseline="alphabetic">still</text>
+</g>
+<g transform="translate(846,212) rotate(56.20582342821544,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-12.88818359375" y="-2" text-anchor="start" dominant-baseline="alphabetic">unexplored</text>
+</g>
+<g transform="translate(494,304) rotate(0,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-4.388427734375" y="-2" text-anchor="start" dominant-baseline="alphabetic">pair</text>
+</g>
+<g transform="translate(248,268) rotate(64.69755900823472,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-12.974853515625" y="-2" text-anchor="start" dominant-baseline="alphabetic">risk-associ</text>
+</g>
+<g transform="translate(630,504) rotate(0,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-7.70263671875" y="-2" text-anchor="start" dominant-baseline="alphabetic">efforts</text>
+</g>
+<g transform="translate(508,124) rotate(0,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-14.368896484375" y="-2" text-anchor="start" dominant-baseline="alphabetic">suppressors</text>
+</g>
+<g transform="translate(526,178) rotate(82.73337069475231,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-9.462890625" y="-2" text-anchor="start" dominant-baseline="alphabetic">reduced</text>
+</g>
+<g transform="translate(352,328) rotate(0,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-5.29296875" y="-2" text-anchor="start" dominant-baseline="alphabetic">NBs</text>
+</g>
+<g transform="translate(602,242) rotate(4.862937436126322,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-6.2548828125" y="-2" text-anchor="start" dominant-baseline="alphabetic">locus</text>
+</g>
+<g transform="translate(296,432) rotate(-10.011363814343822,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-11.34033203125" y="-2" text-anchor="start" dominant-baseline="alphabetic">strategies</text>
+</g>
+<g transform="translate(586,584) rotate(0,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-16.53564453125" y="-2" text-anchor="start" dominant-baseline="alphabetic">understanding</text>
+</g>
+<g transform="translate(436,584) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-14.671630859375" y="-2" text-anchor="start" dominant-baseline="alphabetic">improvement</text>
+</g>
+<g transform="translate(388,476) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-5.018310546875" y="-2" text-anchor="start" dominant-baseline="alphabetic">ated</text>
+</g>
+<g transform="translate(678,464) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-7.762451171875" y="-2" text-anchor="start" dominant-baseline="alphabetic">largely</text>
+</g>
+<g transform="translate(390,240) rotate(0,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-8.6865234375" y="-2" text-anchor="start" dominant-baseline="alphabetic">prevent</text>
+</g>
+<g transform="translate(318,476) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-11.50634765625" y="-2" text-anchor="start" dominant-baseline="alphabetic">regulating</text>
+</g>
+<g transform="translate(358,500) rotate(0,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-8.09326171875" y="-2" text-anchor="start" dominant-baseline="alphabetic">believe</text>
+</g>
+<g transform="translate(290,384) rotate(11.702379874628837,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-5.6689453125" y="-2" text-anchor="start" dominant-baseline="alphabetic">roles</text>
+</g>
+<g transform="translate(728,380) rotate(0,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-5.94482421875" y="-2" text-anchor="start" dominant-baseline="alphabetic">likely</text>
+</g>
+<g transform="translate(476,124) rotate(0,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-14.251708984375" y="-2" text-anchor="start" dominant-baseline="alphabetic">demonstrate</text>
+</g>
+<g transform="translate(384,220) rotate(0,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-10.6689453125" y="-2" text-anchor="start" dominant-baseline="alphabetic">prevalent</text>
+</g>
+<g transform="translate(466,618) rotate(5.299697624744892,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-6.895751953125" y="-2" text-anchor="start" dominant-baseline="alphabetic">future</text>
+</g>
+<g transform="translate(286,452) rotate(0,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-8.697509765625" y="-2" text-anchor="start" dominant-baseline="alphabetic">provide</text>
+</g>
+<g transform="translate(258,432) rotate(0,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-12.2021484375" y="-2" text-anchor="start" dominant-baseline="alphabetic">preventing</text>
+</g>
+<g transform="translate(618,584) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-12.59033203125" y="-2" text-anchor="start" dominant-baseline="alphabetic">debilitating</text>
+</g>
+<g transform="translate(800,396) rotate(0,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-10.9765625" y="-2" text-anchor="start" dominant-baseline="alphabetic">ultimately</text>
+</g>
+<g transform="translate(590,172) rotate(86.4263605599034,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-8.531494140625" y="-2" text-anchor="start" dominant-baseline="alphabetic">biology</text>
+</g>
+<g transform="translate(410,584) rotate(0,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-7.11181640625" y="-2" text-anchor="start" dominant-baseline="alphabetic">useful</text>
+</g>
+<g transform="translate(418,224) rotate(-69.04698254848468,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-8.9453125" y="-2" text-anchor="start" dominant-baseline="alphabetic">insights</text>
+</g>
+<g transform="translate(866,308) rotate(-78.22306269753891,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-19.293212890625" y="-2" text-anchor="start" dominant-baseline="alphabetic">pathophysiology</text>
+</g>
+<g transform="translate(312,500) rotate(0,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-18.492431640625" y="-2" text-anchor="start" dominant-baseline="alphabetic">performedwhole</text>
+</g>
+<g transform="translate(586,124) rotate(0,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-15.806884765625" y="-2" text-anchor="start" dominant-baseline="alphabetic">transcriptome</text>
+</g>
+<g transform="translate(262,452) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-12.24853515625" y="-2" text-anchor="start" dominant-baseline="alphabetic">generation</text>
+</g>
+<g transform="translate(498,296) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-4.92919921875" y="-2" text-anchor="start" dominant-baseline="alphabetic">next</text>
+</g>
+<g transform="translate(478,216) rotate(-66.354701720611,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-6.614990234375" y="-2" text-anchor="start" dominant-baseline="alphabetic">CCM</text>
+</g>
+<g transform="translate(798,352) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-11.54296875" y="-2" text-anchor="start" dominant-baseline="alphabetic">Executing</text>
+</g>
+<g transform="translate(310,256) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-11.31103515625" y="-2" text-anchor="start" dominant-baseline="alphabetic">RNA-seq</text>
+</g>
+<g transform="translate(324,528) rotate(0,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-9.69482421875" y="-2" text-anchor="start" dominant-baseline="alphabetic">selected</text>
+</g>
+<g transform="translate(622,152) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-11.866455078125" y="-2" text-anchor="start" dominant-baseline="alphabetic">qRT-PCR</text>
+</g>
+<g transform="translate(294,476) rotate(0,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-7.877197265625" y="-2" text-anchor="start" dominant-baseline="alphabetic">related</text>
+</g>
+<g transform="translate(418,124) rotate(0,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-11.790771484375" y="-2" text-anchor="start" dominant-baseline="alphabetic">confirmed</text>
+</g>
+<g transform="translate(620,124) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-13.04931640625" y="-2" text-anchor="start" dominant-baseline="alphabetic">LBX2-AS1</text>
+</g>
+<g transform="translate(140,624) rotate(60.68911901721255,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-12.178955078125" y="-2" text-anchor="start" dominant-baseline="alphabetic">correlative</text>
+</g>
+<g transform="translate(300,524) rotate(0,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-10.9912109375" y="-2" text-anchor="start" dominant-baseline="alphabetic">SMIM25</text>
+</g>
+<g transform="translate(650,152) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-12.91015625" y="-2" text-anchor="start" dominant-baseline="alphabetic">Importance</text>
+</g>
+<g transform="translate(686,184) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-16.865234375" y="-2" text-anchor="start" dominant-baseline="alphabetic">sperm-derived</text>
+</g>
+<g transform="translate(380,152) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-9.56298828125" y="-2" text-anchor="start" dominant-baseline="alphabetic">declines</text>
+</g>
+<g transform="translate(320,344) rotate(0,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-6.400146484375" y="-2" text-anchor="start" dominant-baseline="alphabetic">onset</text>
+</g>
+<g transform="translate(628,256) rotate(0,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-5.61279296875" y="-2" text-anchor="start" dominant-baseline="alphabetic">peak</text>
+</g>
+<g transform="translate(300,212) rotate(0,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-17.181396484375" y="-2" text-anchor="start" dominant-baseline="alphabetic">protein-coding</text>
+</g>
+<g transform="translate(420,668) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-9.146728515625" y="-2" text-anchor="start" dominant-baseline="alphabetic">reaches</text>
+</g>
+<g transform="translate(740,154) rotate(31.700961966487082,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-11.2744140625" y="-2" text-anchor="start" dominant-baseline="alphabetic">lincRNAs</text>
+</g>
+<g transform="translate(686,152) rotate(0,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-20.118408203125" y="-2" text-anchor="start" dominant-baseline="alphabetic">Sperm-lincRNAs</text>
+</g>
+<g transform="translate(716,180) rotate(0,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-9.051513671875" y="-2" text-anchor="start" dominant-baseline="alphabetic">indicate</text>
+</g>
+<g transform="translate(352,128) rotate(0,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-9.541015625" y="-2" text-anchor="start" dominant-baseline="alphabetic">carrying</text>
+</g>
+<g transform="translate(356,664) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-14.896240234375" y="-2" text-anchor="start" dominant-baseline="alphabetic">observations</text>
+</g>
+<g transform="translate(354,208) rotate(0,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-8.350830078125" y="-2" text-anchor="start" dominant-baseline="alphabetic">Overall</text>
+</g>
+<g transform="translate(566,658) rotate(-48.35003588352624,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-9.593505859375" y="-2" text-anchor="start" dominant-baseline="alphabetic">aberrant</text>
+</g>
+<g transform="translate(602,636) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-7.91748046875" y="-2" text-anchor="start" dominant-baseline="alphabetic">tumors</text>
+</g>
+<g transform="translate(862,250) rotate(61.98328518154895,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-8.9697265625" y="-2" text-anchor="start" dominant-baseline="alphabetic">bivalent</text>
+</g>
+<g transform="translate(390,616) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-8.216552734375" y="-2" text-anchor="start" dominant-baseline="alphabetic">tissues</text>
+</g>
+<g transform="translate(270,504) rotate(0,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-7.972412109375" y="-2" text-anchor="start" dominant-baseline="alphabetic">oocyte</text>
+</g>
+<g transform="translate(276,400) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-6.025390625" y="-2" text-anchor="start" dominant-baseline="alphabetic">carry</text>
+</g>
+<g transform="translate(642,620) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-8.2568359375" y="-2" text-anchor="start" dominant-baseline="alphabetic">equally</text>
+</g>
+<g transform="translate(690,124) rotate(0,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-12.09228515625" y="-2" text-anchor="start" dominant-baseline="alphabetic">integrative</text>
+</g>
+<g transform="translate(774,140) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-12.535400390625" y="-2" text-anchor="start" dominant-baseline="alphabetic">organismal</text>
+</g>
+<g transform="translate(238,622) rotate(26.642267856260933,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-13.9794921875" y="-2" text-anchor="start" dominant-baseline="alphabetic">investigated</text>
+</g>
+<g transform="translate(646,124) rotate(0,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-8.43994140625" y="-2" text-anchor="start" dominant-baseline="alphabetic">distinct</text>
+</g>
+<g transform="translate(798,160) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-12.3486328125" y="-2" text-anchor="start" dominant-baseline="alphabetic">correlating</text>
+</g>
+<g transform="translate(246,232) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-7.00927734375" y="-2" text-anchor="start" dominant-baseline="alphabetic">layers</text>
+</g>
+<g transform="translate(574,360) rotate(-86.74960686202304,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-8.946533203125" y="-2" text-anchor="start" dominant-baseline="alphabetic">somatic</text>
+</g>
+<g transform="translate(724,428) rotate(0,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-5.711669921875" y="-2" text-anchor="start" dominant-baseline="alphabetic">germ</text>
+</g>
+<g transform="translate(264,584) rotate(0,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-9.954833984375" y="-2" text-anchor="start" dominant-baseline="alphabetic">lincRNA</text>
+</g>
+<g transform="translate(798,636) rotate(0,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-11.0205078125" y="-2" text-anchor="start" dominant-baseline="alphabetic">transcript</text>
+</g>
+<g transform="translate(278,650) rotate(28.230890362446363,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-8.79638671875" y="-2" text-anchor="start" dominant-baseline="alphabetic">cohorts</text>
+</g>
+<g transform="translate(238,376) rotate(36.1771891748262,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-7.86865234375" y="-2" text-anchor="start" dominant-baseline="alphabetic">patient</text>
+</g>
+<g transform="translate(790,656) rotate(0,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-12.381591796875" y="-2" text-anchor="start" dominant-baseline="alphabetic">xenografts</text>
+</g>
+<g transform="translate(442,428) rotate(0,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-3.3203125" y="-2" text-anchor="start" dominant-baseline="alphabetic">list</text>
+</g>
+<g transform="translate(434,354) rotate(-82.60085230131091,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-5.53955078125" y="-2" text-anchor="start" dominant-baseline="alphabetic">PDX</text>
+</g>
+<g transform="translate(740,352) rotate(0,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-5.262451171875" y="-2" text-anchor="start" dominant-baseline="alphabetic">treat</text>
+</g>
+<g transform="translate(474,304) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-3.9892578125" y="-2" text-anchor="start" dominant-baseline="alphabetic">line</text>
+</g>
+<g transform="translate(216,676) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-17.59033203125" y="-2" text-anchor="start" dominant-baseline="alphabetic">lncRNA-based</text>
+</g>
+<g transform="translate(146,596) rotate(0,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-12.081298828125" y="-2" text-anchor="start" dominant-baseline="alphabetic">oncogenic</text>
+</g>
+<g transform="translate(308,640) rotate(0,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-9.853515625" y="-2" text-anchor="start" dominant-baseline="alphabetic">low-flow</text>
+</g>
+<g transform="translate(700,664) rotate(0,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-10.51025390625" y="-2" text-anchor="start" dominant-baseline="alphabetic">recurrent</text>
+</g>
+<g transform="translate(764,160) rotate(0,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-9.97314453125" y="-2" text-anchor="start" dominant-baseline="alphabetic">Cerebral</text>
+</g>
+<g transform="translate(718,152) rotate(0,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-7.95166015625" y="-2" text-anchor="start" dominant-baseline="alphabetic">drivers</text>
+</g>
+<g transform="translate(656,504) rotate(0,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-6.175537109375" y="-2" text-anchor="start" dominant-baseline="alphabetic">value</text>
+</g>
+<g transform="translate(144,604) rotate(0,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-9.468994140625" y="-2" text-anchor="start" dominant-baseline="alphabetic">strategy</text>
+</g>
+<g transform="translate(324,280) rotate(0,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-6.416015625" y="-2" text-anchor="start" dominant-baseline="alphabetic">types</text>
+</g>
+<g transform="translate(556,628) rotate(0,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-6.966552734375" y="-2" text-anchor="start" dominant-baseline="alphabetic">reveal</text>
+</g>
+<g transform="translate(250,132) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-8.856201171875" y="-2" text-anchor="start" dominant-baseline="alphabetic">SCAT7</text>
+</g>
+<g transform="translate(754,652) rotate(0,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-8.20068359375" y="-2" text-anchor="start" dominant-baseline="alphabetic">models</text>
+</g>
+<g transform="translate(226,628) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-7.745361328125" y="-2" text-anchor="start" dominant-baseline="alphabetic">crucial</text>
+</g>
+<g transform="translate(684,474) rotate(-58.02800213105086,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-9.5556640625" y="-2" text-anchor="start" dominant-baseline="alphabetic">seizures</text>
+</g>
+<g transform="translate(400,412) rotate(-79.79223022854076,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-8.533935546875" y="-2" text-anchor="start" dominant-baseline="alphabetic">various</text>
+</g>
+<g transform="translate(350,170) rotate(72.35911998626729,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-10.45654296875" y="-2" text-anchor="start" dominant-baseline="alphabetic">episodes</text>
+</g>
+<g transform="translate(764,344) rotate(0,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-6.163330078125" y="-2" text-anchor="start" dominant-baseline="alphabetic">relies</text>
+</g>
+<g transform="translate(772,416) rotate(0,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-6.796875" y="-2" text-anchor="start" dominant-baseline="alphabetic">solely</text>
+</g>
+<g transform="translate(632,656) rotate(-38.43221701700145,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-7.452392578125" y="-2" text-anchor="start" dominant-baseline="alphabetic">recruit</text>
+</g>
+<g transform="translate(568,618) rotate(-10.116176691848873,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-4.844970703125" y="-2" text-anchor="start" dominant-baseline="alphabetic">help</text>
+</g>
+<g transform="translate(552,124) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-5.9228515625" y="-2" text-anchor="start" dominant-baseline="alphabetic">short</text>
+</g>
+<g transform="translate(240,330) rotate(-42.20206385809784,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-6.414794921875" y="-2" text-anchor="start" dominant-baseline="alphabetic">guide</text>
+</g>
+<g transform="translate(300,280) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-6.17431640625" y="-2" text-anchor="start" dominant-baseline="alphabetic">distal</text>
+</g>
+<g transform="translate(492,426) rotate(-75.13077113265463,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-5.27099609375" y="-2" text-anchor="start" dominant-baseline="alphabetic">cells</text>
+</g>
+<g transform="translate(648,244) rotate(46.08867436054838,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-6.810302734375" y="-2" text-anchor="start" dominant-baseline="alphabetic">Using</text>
+</g>
+<g transform="translate(420,616) rotate(0,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-6.37451171875" y="-2" text-anchor="start" dominant-baseline="alphabetic">share</text>
+</g>
+<g transform="translate(240,188) rotate(-84.54276929006417,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-15.76171875" y="-2" text-anchor="start" dominant-baseline="alphabetic">metabolomics</text>
+</g>
+<g transform="translate(532,418) rotate(-61.55405702078465,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-3.55224609375" y="-2" text-anchor="start" dominant-baseline="alphabetic">etc</text>
+</g>
+<g transform="translate(686,208) rotate(87.94155286288944,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-11.201171875" y="-2" text-anchor="start" dominant-baseline="alphabetic">simplified</text>
+</g>
+<g transform="translate(352,216) rotate(0,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-6.82373046875" y="-2" text-anchor="start" dominant-baseline="alphabetic">called</text>
+</g>
+<g transform="translate(430,442) rotate(-53.25548151894488,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-4.063720703125" y="-2" text-anchor="start" dominant-baseline="alphabetic">Set</text>
+</g>
+<g transform="translate(562,260) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-4.2919921875" y="-2" text-anchor="start" dominant-baseline="alphabetic">rely</text>
+</g>
+<g transform="translate(276,280) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-5.7177734375" y="-2" text-anchor="start" dominant-baseline="alphabetic">huge</text>
+</g>
+<g transform="translate(452,668) rotate(0,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-6.544189453125" y="-2" text-anchor="start" dominant-baseline="alphabetic">adapt</text>
+</g>
+<g transform="translate(832,352) rotate(0,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-5.633544921875" y="-2" text-anchor="start" dominant-baseline="alphabetic">used</text>
+</g>
+<g transform="translate(812,308) rotate(0,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-5.809326171875" y="-2" text-anchor="start" dominant-baseline="alphabetic">SNP</text>
+</g>
+<g transform="translate(384,128) rotate(0,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-6.478271484375" y="-2" text-anchor="start" dominant-baseline="alphabetic">6p22</text>
+</g>
+<g transform="translate(596,680) rotate(0,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-6.18408203125" y="-2" text-anchor="start" dominant-baseline="alphabetic">differ</text>
+</g>
+<g transform="translate(600,222) rotate(-80.9904305557862,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-10.04638671875" y="-2" text-anchor="start" dominant-baseline="alphabetic">detected</text>
+</g>
+<g transform="translate(338,368) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-3.843994140625" y="-2" text-anchor="start" dominant-baseline="alphabetic">low</text>
+</g>
+<g transform="translate(508,614) rotate(-31.14373631633831,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-6.86767578125" y="-2" text-anchor="start" dominant-baseline="alphabetic">factor</text>
+</g>
+<g transform="translate(456,514) rotate(72.9642109633962,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-6.65771484375" y="-2" text-anchor="start" dominant-baseline="alphabetic">repair</text>
+</g>
+<g transform="translate(688,454) rotate(-28.14664728312237,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-5.135498046875" y="-2" text-anchor="start" dominant-baseline="alphabetic">view</text>
+</g>
+<g transform="translate(748,178) rotate(-5.817755257451078,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-12.5439453125" y="-2" text-anchor="start" dominant-baseline="alphabetic">precursors</text>
+</g>
+<g transform="translate(316,438) rotate(-29.44269768486149,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-6.6455078125" y="-2" text-anchor="start" dominant-baseline="alphabetic">occur</text>
+</g>
+<g transform="translate(414,498) rotate(6.254125550408619,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-6.85302734375" y="-2" text-anchor="start" dominant-baseline="alphabetic">assay</text>
+</g>
+<g transform="translate(352,152) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-6.57958984375" y="-2" text-anchor="start" dominant-baseline="alphabetic">freely</text>
+</g>
+<g transform="translate(734,126) rotate(-4.309539503510999,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-10.733642578125" y="-2" text-anchor="start" dominant-baseline="alphabetic">signature</text>
+</g>
+<g transform="translate(580,414) rotate(-74.23740458088598,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-6.590576171875" y="-2" text-anchor="start" dominant-baseline="alphabetic">hyper</text>
+</g>
+<g transform="translate(840,308) rotate(0,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-6.375732421875" y="-2" text-anchor="start" dominant-baseline="alphabetic">along</text>
+</g>
+<g transform="translate(318,376) rotate(0,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-4.2041015625" y="-2" text-anchor="start" dominant-baseline="alphabetic">sub</text>
+</g>
+<g transform="translate(344,644) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-6.85791015625" y="-2" text-anchor="start" dominant-baseline="alphabetic">nomic</text>
+</g>
+<g transform="translate(818,648) rotate(-48.361297557576535,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-12.20458984375" y="-2" text-anchor="start" dominant-baseline="alphabetic">eukaryotic</text>
+</g>
+<g transform="translate(664,638) rotate(-53.51213501896702,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-8.206787109375" y="-2" text-anchor="start" dominant-baseline="alphabetic">inferior</text>
+</g>
+<g transform="translate(248,420) rotate(45.44909832800307,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-7.362060546875" y="-2" text-anchor="start" dominant-baseline="alphabetic">sorted</text>
+</g>
+<g transform="translate(784,320) rotate(-40.697151717253774,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-7.491455078125" y="-2" text-anchor="start" dominant-baseline="alphabetic">cohort</text>
+</g>
+<g transform="translate(316,140) rotate(0,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-5.7421875" y="-2" text-anchor="start" dominant-baseline="alphabetic">PCR</text>
+</g>
+<g transform="translate(666,440) rotate(0,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-4.832763671875" y="-2" text-anchor="start" dominant-baseline="alphabetic">com</text>
+</g>
+<g transform="translate(526,616) rotate(0,0,0)">
+<text fill="rgb(198, 49, 45)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-4.50927734375" y="-2" text-anchor="start" dominant-baseline="alphabetic">tran</text>
+</g>
+<g transform="translate(780,184) rotate(0,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-6.627197265625" y="-2" text-anchor="start" dominant-baseline="alphabetic">pared</text>
+</g>
+<g transform="translate(666,210) rotate(22.883977876254217,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-7.198486328125" y="-2" text-anchor="start" dominant-baseline="alphabetic">CARs</text>
+</g>
+<g transform="translate(264,608) rotate(0,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-6.153564453125" y="-2" text-anchor="start" dominant-baseline="alphabetic">matin</text>
+</g>
+<g transform="translate(830,374) rotate(-80.96487518778171,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-5.61279296875" y="-2" text-anchor="start" dominant-baseline="alphabetic">icant</text>
+</g>
+<g transform="translate(728,640) rotate(0,0,0)">
+<text fill="rgb(246, 186, 120)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-6.93603515625" y="-2" text-anchor="start" dominant-baseline="alphabetic">Signif</text>
+</g>
+<g transform="translate(324,680) rotate(0,0,0)">
+<text fill="rgb(255, 255, 255)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-5.17822265625" y="-2" text-anchor="start" dominant-baseline="alphabetic">chro</text>
+</g>
+<g transform="translate(490,616) rotate(0,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-4.151611328125" y="-2" text-anchor="start" dominant-baseline="alphabetic">use</text>
+</g>
+<g transform="translate(840,584) rotate(0,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-6.864013671875" y="-2" text-anchor="start" dominant-baseline="alphabetic">ability</text>
+</g>
+<g transform="translate(266,364) rotate(0,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-3.7744140625" y="-2" text-anchor="start" dominant-baseline="alphabetic">run</text>
+</g>
+<g transform="translate(262,404) rotate(0,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-4.744873046875" y="-2" text-anchor="start" dominant-baseline="alphabetic">time</text>
+</g>
+<g transform="translate(460,430) rotate(-5.822921628529402,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-4.625244140625" y="-2" text-anchor="start" dominant-baseline="alphabetic">lists</text>
+</g>
+<g transform="translate(774,380) rotate(0,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-3.922119140625" y="-2" text-anchor="start" dominant-baseline="alphabetic">like</text>
+</g>
+<g transform="translate(820,636) rotate(0,0,0)">
+<text fill="rgb(234, 128, 50)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-6.402587890625" y="-2" text-anchor="start" dominant-baseline="alphabetic">Linux</text>
+</g>
+<g transform="translate(328,182) rotate(74.69070491906528,0,0)">
+<text fill="rgb(242, 135, 145)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-6.9775390625" y="-2" text-anchor="start" dominant-baseline="alphabetic">global</text>
+</g>
+<g transform="translate(242,476) rotate(60.40480392455458,0,0)">
+<text fill="rgb(229, 91, 63)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-6.07421875" y="-2" text-anchor="start" dominant-baseline="alphabetic">LINE</text>
+</g>
+<g transform="translate(440,484) rotate(44.35710798092964,0,0)">
+<text fill="rgb(239, 186, 67)" stroke="none" font-family="Original Surfer" font-size="5px" font-style="normal" font-weight="normal" x="-6.35498046875" y="-2" text-anchor="start" dominant-baseline="alphabetic">major</text>
+</g>
+</g>
+</svg>
